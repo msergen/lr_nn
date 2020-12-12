@@ -1,2 +1,2 @@
 # lr_nn
-Logistic Regression and Neural Networks
+Some of my work on interpreting images with Logistic Regression and Neural Networks 
